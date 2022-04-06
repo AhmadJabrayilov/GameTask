@@ -1,0 +1,14 @@
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\bin\Debug\netcoreapp3.1\aasdasfsa.exe
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\bin\Debug\netcoreapp3.1\aasdasfsa.deps.json
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\bin\Debug\netcoreapp3.1\aasdasfsa.runtimeconfig.json
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\bin\Debug\netcoreapp3.1\aasdasfsa.runtimeconfig.dev.json
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\bin\Debug\netcoreapp3.1\aasdasfsa.dll
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\bin\Debug\netcoreapp3.1\aasdasfsa.pdb
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\obj\Debug\netcoreapp3.1\aasdasfsa.csproj.AssemblyReference.cache
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\obj\Debug\netcoreapp3.1\aasdasfsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\obj\Debug\netcoreapp3.1\aasdasfsa.AssemblyInfoInputs.cache
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\obj\Debug\netcoreapp3.1\aasdasfsa.AssemblyInfo.cs
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\obj\Debug\netcoreapp3.1\aasdasfsa.csproj.CoreCompileInputs.cache
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\obj\Debug\netcoreapp3.1\aasdasfsa.dll
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\obj\Debug\netcoreapp3.1\aasdasfsa.pdb
+C:\Users\tu25tyfpp\source\repos\aasdasfsa\aasdasfsa\obj\Debug\netcoreapp3.1\aasdasfsa.genruntimeconfig.cache
